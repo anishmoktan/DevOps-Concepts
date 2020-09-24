@@ -22,3 +22,11 @@ DevOps terms and concepts
 
 ## Cloud Scalability, and Reliability
 - Cloud Scalability means to be able to increase the compute power of a computer in the cloud on demand. For example, if a website usually hosts few hundreds of visitors on a daily basis and the website gains millions of visitos one night, the server would not be able to handle the volume and go out of service. Hence, cloud scalability is the method of giving the host the leverage to increase (scale) the computing power to meet the power required to host the website on demand. Reliability means as the servers are on the cloud, they are distributed to multiple nodes to ensure the server is safe and secured from hacks and data breaches. It would be up to the hosts to set their cloud servers in a way that they are able to withstand potential threats.  
+
+## Software Architecture / Software Architecture Patterns 
+
+## Client/Server 
+## Peer-to-Peer
+## Monolithic 
+## Microservices 
+## REST
