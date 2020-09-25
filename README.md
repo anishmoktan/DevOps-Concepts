@@ -14,6 +14,7 @@ DevOps terms and concepts
 - Continuous delivery is a practice that expands upon continuous integration, where it focuses on automating the code changes that are prepared for a release to production. The goal is to continue automating beyond unit tests to mitigate bugs, verify updates across different features of the code, and to have deployment-ready software that passes through the testing process. Ultimately, continuous delivery lets teams of developers automatically build, test, and prepare code changes for release to production so that your software delivery is more efficient and rapid.
 
 ## Configuration Management
+-
 
 ## Containerization
 - Containerization is an effective technique that uses containers to deploy applications on the cloud. It allows us to keep the applications isolated to promote portability, agility, scalability/high availability, and optimization of revenue. Container are commonly used for continuous integration/continuous development automation, autoscaling microservices architectures, containers as service, and hybrid cloud architectures. Using containers allows us to better utilize the recourses on servers for easy, reliable, and accessible deployments of applications.
@@ -39,4 +40,5 @@ DevOps terms and concepts
 ## Microservices 
 - are the way of creating softwares where applications are broken down into smaller independent services and are not dependent upon a specific coding language. Development teams are able to use the language tools they are most comfortable with and achieve synergy in the application development process. Large complex applications can be divided into smaller building blocks and when recomposed, offer all of the functionality of a large scale, highly complex application. All of the microservices communicate with each other using HTTP requests on REST API. Benefits include the use of containers, APIs, and scabality on the cloud.
 
-## REST
+## REST (REPRESENTATIONAL STATE TRANSFER)
+- an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems (RESTful systems) are characterized by how they are stateless (server does not need to know anything about what state the client is in and vice versa.) and separate the concerns of client and server. Computers communicate through HTTP protocols, which are used to create, read, update, and delete data data (CRUD operations). The metods of HTTP requests include, Get, Post, Put, and Delete, and are used to specify the actions that should take place between the two computers. 
