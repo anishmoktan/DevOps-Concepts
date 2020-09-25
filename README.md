@@ -1,8 +1,6 @@
 # DevOps-Concepts
 DevOps terms and concepts
 
-# LMTD-Phase1B-Intro
-
 ## Software Delivery Cycle
 - Software delivery cycle is a best-practice methodology that defines the appropriate steps to follow when building efficient software. The cycle begins with brainstorming what problems the software is trying to solve, analyzing what components are required in order to achieve such goals, designing the architecture of the software, and developing to make the software come to life. The cycle then leads to deploying and testing the software, which allows us to see if the goals of the project were met. Finally the cycle encourages to maintain the software to make sure it stays running until bugs or new additional features are considered, which would ignite the cycle to start again.
 
@@ -23,10 +21,16 @@ DevOps terms and concepts
 ## Cloud Scalability, and Reliability
 - Cloud Scalability means to be able to increase the compute power of a computer in the cloud on demand. For example, if a website usually hosts few hundreds of visitors on a daily basis and the website gains millions of visitos one night, the server would not be able to handle the volume and go out of service. Hence, cloud scalability is the method of giving the host the leverage to increase (scale) the computing power to meet the power required to host the website on demand. Reliability means as the servers are on the cloud, they are distributed to multiple nodes to ensure the server is safe and secured from hacks and data breaches. It would be up to the hosts to set their cloud servers in a way that they are able to withstand potential threats.  
 
-## Software Architecture / Software Architecture Patterns 
+## Software Architecture / Software Architecture Patterns
+- the blueprint or the glue 
+https://www.sei.cmu.edu/sei-images/images/aside_standard_challenge_software-architecture_560x400_2_4070.jpg
 
 ## Client/Server 
+
 ## Peer-to-Peer
+
 ## Monolithic 
+
 ## Microservices 
+
 ## REST
