@@ -14,7 +14,7 @@ DevOps terms and concepts
 - Continuous delivery is a practice that expands upon continuous integration, where it focuses on automating the code changes that are prepared for a release to production. The goal is to continue automating beyond unit tests to mitigate bugs, verify updates across different features of the code, and to have deployment-ready software that passes through the testing process. Ultimately, continuous delivery lets teams of developers automatically build, test, and prepare code changes for release to production so that your software delivery is more efficient and rapid.
 
 ## Configuration Management
--Configuration management is a process for maintaining computer systems, servers, and software in a desired, consistent state. It’s a way to make sure that a system performs as it’s expected to as changes are made over time. 
+- Configuration management is a process for maintaining computer systems, servers, and software in a desired, consistent state. It’s a way to make sure that a system performs as it’s expected to as changes are made over time. 
 
 ## Containerization
 - Containerization is an effective technique that uses containers to deploy applications on the cloud. It allows us to keep the applications isolated to promote portability, agility, scalability/high availability, and optimization of revenue. Container are commonly used for continuous integration/continuous development automation, autoscaling microservices architectures, containers as service, and hybrid cloud architectures. Using containers allows us to better utilize the recourses on servers for easy, reliable, and accessible deployments of applications.
