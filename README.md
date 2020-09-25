@@ -22,12 +22,14 @@ DevOps terms and concepts
 - Cloud Scalability means to be able to increase the compute power of a computer in the cloud on demand. For example, if a website usually hosts few hundreds of visitors on a daily basis and the website gains millions of visitos one night, the server would not be able to handle the volume and go out of service. Hence, cloud scalability is the method of giving the host the leverage to increase (scale) the computing power to meet the power required to host the website on demand. Reliability means as the servers are on the cloud, they are distributed to multiple nodes to ensure the server is safe and secured from hacks and data breaches. It would be up to the hosts to set their cloud servers in a way that they are able to withstand potential threats.  
 
 ## Software Architecture / Software Architecture Patterns
-- the blueprint or the glue 
-https://www.sei.cmu.edu/sei-images/images/aside_standard_challenge_software-architecture_560x400_2_4070.jpg
+- the blueprint or the glue of a project that that must be followed out by design and implementation teams to understand how the end product should behave. Before begining a new project, an architecture must be rendered in order to understnad the goals, the frameowork, the components, and system qualities to unify a vision. An effective architecuure helps ignite an organized process that keeps the goals aligned and identify the risks which can be mitigated in different stages of the project. 
+- Software architectural pattern are general, reusable solutions to a commonly occurring problem in software architecture within a given context.
 
 ## Client/Server 
+- There are models that distribute the dividing tasks between servers and clients, which either reside in the same system or communicate through a computer network (internet). The client sends requests to another program in order to access a service made available by a server and the server runs one or more programs that share resources with and distribute work among clients. They communicate in request-response pattern and must follow the formal rules, languags, and dialog patterns (protocols). 
 
 ## Peer-to-Peer
+- Peers are computer which are connected to each other via the Internet. Files can be shared directly between systems on the network without the need of a central server. In other words, each computer on a P2P network becomes a file server as well as a client.
 
 ## Monolithic 
 
