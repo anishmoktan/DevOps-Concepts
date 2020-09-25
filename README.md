@@ -29,10 +29,12 @@ DevOps terms and concepts
 - There are models that distribute the dividing tasks between servers and clients, which either reside in the same system or communicate through a computer network (internet). The client sends requests to another program in order to access a service made available by a server and the server runs one or more programs that share resources with and distribute work among clients. They communicate in request-response pattern and must follow the formal rules, languags, and dialog patterns (protocols). 
 
 ## Peer-to-Peer
-- Peers are computer which are connected to each other via the Internet. Files can be shared directly between systems on the network without the need of a central server. In other words, each computer on a P2P network becomes a file server as well as a client.
+- decentralized network on the internet where peers (computers) are connected to each other so files are shared directly between systems without the need of a central server. In other words, each computer on a P2P network becomes a file server as well as a client. Once connected, you can search for designated sharable files on other people's computer and others can do the same to your computer, causing unsecured transactions. P2P leads to piracy and illegal sharing of softwares and data.
 
 ## Monolithic 
+- 
 
 ## Microservices 
+- are the way of creating softwares where applications are broken down into smaller independent services and are not dependent upon a specific coding language. Development teams are able to use the language tools they are most comfortable with and achieve synergy in the application development process. Large complex applications can be divided into smaller building blocks and when recomposed, offer all of the functionality of a large scale, highly complex application. All of the microservices communicate with each other using HTTP requests on REST API. Benefits include the use of containers, APIs, and scabality on the cloud.
 
 ## REST
