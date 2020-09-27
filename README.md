@@ -35,7 +35,7 @@ DevOps terms and concepts
 ## Monolithic 
 - Contrary to microservices, monolithic architectures describe a single-tiered software application in which different components, such as authorization, presentation, database, and application integration, are combined into a single program from a single platform. Despite having different components/modules/services, the application is built and deployed as one Application for all platforms (i.e. desktop, mobile and tablet). Benefits include simple to develop, test, deploy, and scale horizontally. Drawbacks include difficult maintenance, slow start-up, redeploy the application during each update, difficult to scale, unreliable process, and difficult integrating to the latest technology.
 
-## *It is recommended to adopt Monolithic approach first and depending on the needs/requirement gradually shift towards Microservices approach.
+## **It is recommended to adopt Monolithic approach first and depending on the needs/requirement gradually shift towards Microservices approach.
 
 ## Microservices 
 - are the way of creating software where applications are broken down into smaller independent services and are not dependent upon a specific coding language. Development teams are able to use the language tools they are most comfortable with and achieve synergy in the application development process. Large complex applications can be divided into smaller building blocks and when recomposed, offer all of the functionality of a large scale, highly complex application. All of the microservices communicate with each other using HTTP requests on REST API. Benefits include the use of containers, APIs, and scalability on the cloud.
