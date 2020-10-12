@@ -6,6 +6,7 @@ DevOps terms and concepts
 
 ## Test Driven Development
 - TDD is a software development approach where test cases are developed to validate what the code of various features in a software will do. It is a micro approach of conducting various tests for the software's functionality and features to ensure the codes that build up to the overall software are working and deployable. This method allows developers to find and fix bugs effectively and faster to ensure smooth progression of the development of the software.  
+*Fail test first to catch the bug and error first (less costly than when the clients encounter them after production)
 
 ## Continuous Integration
 - Continuous integration is the practice of constantly merging code of a project in a shared repository, where automated builds and tests are run. It is part of the build and integration stage of the software delivery cycle and the core goals are to find bugs earlier, reduce the length of release updates, and improve the overall quality of the software. CI allows multiple developers to work together by preventing merge conflicts and implementing tests of the branch they’re working with to integrate the right code to the central repository. Overall, the practice improves developers’ productivity, helps them find and address bugs quicker, and deliver updates of the software faster. 
